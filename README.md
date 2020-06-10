@@ -11,6 +11,7 @@ Hey, @user this PR is beautiful.  I pointed out some architecture things and som
 Nice job on this @user!! I left some suggestions here, take a look and tell me what do you think! Thanks <br><br>
 Awesome job @user, just  don't forget to ... before merging :D <br><br>
 Wow! Tons of code! Congrats, @user! It is shaping really nice. We need to just make some tweaks and it will be! Also we ... and it will not work. :D<br><br>
+Hey @user, here I would suggest to use ...<br><br>
 
 # And maybe these gifs can make a better day for your teammate:
 ![batman](https://user-images.githubusercontent.com/9298260/84221432-9b4f0c80-aaab-11ea-9006-80c176283826.gif)
