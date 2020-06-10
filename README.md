@@ -1,5 +1,8 @@
 # Zé Happier Code Review
-Make your code review happier 🍺
+What about to support a friend that worked for days on a feature, even if creates 2 more bugs? 🍺 <br>
+Or give an extra star for an amazing work that your teammate has worked on? ⭐ <br>
+
+Make your friends pull requests a better environment:
 
 ![batman](https://user-images.githubusercontent.com/9298260/84221432-9b4f0c80-aaab-11ea-9006-80c176283826.gif)
 ![caprios](https://user-images.githubusercontent.com/9298260/84221435-9c803980-aaab-11ea-8b25-3e423314c7b9.gif)
