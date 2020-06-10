@@ -1,4 +1,4 @@
-# Zé Happier Code Review
+# Zé Delivery Code Review 💛
 What about to support a friend that worked for days on a feature? 🍺 <br>
 Or give an extra star for an amazing work that your teammate has worked on? ⭐ <br>
 
