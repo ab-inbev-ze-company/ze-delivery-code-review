@@ -1,9 +1,18 @@
 # Zé Happier Code Review
-What about to support a friend that worked for days on a feature, even if creates 2 more bugs? 🍺 <br>
+What about to support a friend that worked for days on a feature? 🍺 <br>
 Or give an extra star for an amazing work that your teammate has worked on? ⭐ <br>
 
 Make your friends pull requests a better environment:
 
+# Maybe these comments can inspire you:
+Hey @user, nice job, what do you think about this... <br><br>
+Amazing job @user! About this topic, I have seen this pattern on a blog post that may help ... <br><br>
+Hey, @user this PR is beautiful.  I pointed out some architecture things and some questions that I think it will be nice to discuss before merging it.<br><br>
+Nice job on this @user!! I left some suggestions here, take a look and tell me what do you think! Thanks <br><br>
+Awesome job @user, just  don't forget to ... before merging :D <br><br>
+Wow! Tons of code! Congrats, @user! It is shaping really nice. We need to just make some tweaks and it will be! Also we ... and it will not work. :D<br><br>
+
+# And maybe these gifs can make a better day for your teammate:
 ![batman](https://user-images.githubusercontent.com/9298260/84221432-9b4f0c80-aaab-11ea-9006-80c176283826.gif)
 ![caprios](https://user-images.githubusercontent.com/9298260/84221435-9c803980-aaab-11ea-8b25-3e423314c7b9.gif)
 ![chuck](https://user-images.githubusercontent.com/9298260/84221440-a013c080-aaab-11ea-8282-4a5bc3bb60a0.gif)
