@@ -1,2 +1,2 @@
-# ze-happier-code-review
+# Zé Happier Code Review
 Make your code review happier 🍺
