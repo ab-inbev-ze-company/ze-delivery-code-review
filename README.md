@@ -8,6 +8,7 @@ Make your friends pull requests a better environment:
 Hey @user, nice job, what do you think about this... <br><br>
 Amazing job @user! About this topic, I have seen this pattern on a blog post that may help ... <br><br>
 Hey, @user this PR is beautiful.  I pointed out some architecture things and some questions that I think it will be nice to discuss before merging it.<br><br>
+Hi @user, awesome job refactoring this code!<br><br>
 Nice job on this @user!! I left some suggestions here, take a look and tell me what do you think! Thanks <br><br>
 Awesome job @user, just  don't forget to ... before merging :D <br><br>
 Wow! Tons of code! Congrats, @user! It is shaping really nice. We need to just make some tweaks and it will be! Also we ... and it will not work. :D<br><br>
